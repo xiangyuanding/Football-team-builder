@@ -7,4 +7,4 @@ The chosen players are selected by skill levels, and their positions are determi
 
 run src/soccerteam/Driver to start
 
-![图片](https://github.com/xiangyuanding/Football-team-builder/assets/92667653/0d7e3834-4bb5-4256-879d-705836d0b44a)
+![pic](https://github.com/xiangyuanding/Football-team-builder/assets/92667653/0d7e3834-4bb5-4256-879d-705836d0b44a)
