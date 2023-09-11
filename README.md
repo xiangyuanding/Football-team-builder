@@ -7,6 +7,6 @@ The chosen players are selected by skill levels, and their positions are determi
 
 run src/soccerteam/Driver to start
 
-![pic](assets/92667653/0d7e3834-4bb5-4256-879d-705836d0b44a)
+
 ![pic](2023-09-10231743.png)
 ![pic](2023-09-10232729.png)
